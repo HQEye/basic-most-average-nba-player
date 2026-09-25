@@ -1,0 +1,7 @@
+numpy==2.3.5
+pandas==2.2.3
+
+# only needed for phases.py
+requests
+lxml
+nba_api
