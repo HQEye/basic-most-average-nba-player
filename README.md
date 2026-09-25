@@ -94,4 +94,4 @@ tests/                checks that the results match
 
 ## Credits
 
-Stats are from [Basketball-Reference](https://www.basketball-reference.com/leagues/NBA_2026.html) and NBA.com. I used AI in VS Code to help debug the code. The idea, the method, and all the decisions about what counts as "average" are mine.
+Stats are from [Basketball-Reference](https://www.basketball-reference.com/leagues/NBA_2026.html) and NBA.com. I used AI in VS Code to help debug the code. The idea, 75% of code, the statistical methodology, and all the decisions about what counts as "average" are mine.
